@@ -1,2 +1,2 @@
-# HTML_CSS_PROJECTS
+# Html and Css Projects
 The journey 3
